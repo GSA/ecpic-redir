@@ -1,5 +1,5 @@
-# Redirect
+# eCPIC Redirect
 
-This site is a temporary redirect template, built in Jekyll.
+This site is a redirect of `https://ecpic.gov` to `https://www.digitalgov.gov/services/electronic-capital-planning-and-investment-control-ecpic/`
 
 Questions: jeremy.zilar@gsa.gov
